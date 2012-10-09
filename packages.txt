@@ -1,0 +1,2 @@
+# This file lists external requirements in pypi/distutils
+# format, one per line. Example: "cherrypy >= 2.0"
